@@ -14,6 +14,7 @@
 📌 [GitHub Popular Repos](https://githubabi.ccbp.tech/) - Designed a platform for browsing top GitHub repos by programming language.  
 📌 [Nxt Watch](https://abinxtwatch.ccbp.tech/) - Built the Nxt Watch application, modeled after YouTube, enabling users to log in, explore video categories such as Trending and Gaming, access saved videos, and search for specific content while adjusting the interface theme.  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadaabhilash&show_icons=true&theme=dark)  
+!![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhilashyada&show_icons=true&theme=dark)
+ 
 
 💡 **Check out my projects and feel free to collaborate!**
