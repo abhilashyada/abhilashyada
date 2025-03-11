@@ -10,24 +10,10 @@
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 
 ### 🔥 Featured Projects  
-📌 [NxtStayz](https://github.com/yadaabhilash/NxtStayz) - Hotel & Room Booking System  
-📌 [Super Over League](https://github.com/yadaabhilash/SuperOverLeague) - IPL Score Tracker  
-📌 [Browser History](https://github.com/yadaabhilash/BrowserHistory) - React.js Web App  
+📌 [Jobby App](https://abijobbyab.ccbp.tech) - Developed a comprehensive job search solution, Jobby App.  
+📌 [GitHub Popular Repos](https://githubabi.ccbp.tech/) - Designed a platform for browsing top GitHub repos by programming language.  
+📌 [Nxt Watch](https://abinxtwatch.ccbp.tech/) - Built the Nxt Watch application, modeled after YouTube, enabling users to log in, explore video categories such as Trending and Gaming, access saved videos, and search for specific content while adjusting the interface theme.  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadaabhilash&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadaabhilash&show_icons=true&theme=dark)  
 
 💡 **Check out my projects and feel free to collaborate!**
-<!--
-**abhilashyada/abhilashyada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
