@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer** | Java, Spring Boot & React.js  
 🎯 Passionate about backend development & building scalable applications  
-📫 Reach me at: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your@email.com)  
+📫 Reach me at: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:abhilashabhi50771@email.com)  | [Portfolio](porofolio.ccbp.tech)
 
 ### 🚀 Tech Stack  
 - **Languages:** Java, JavaScript, HTML, CSS  
