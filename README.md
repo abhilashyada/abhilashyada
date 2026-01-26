@@ -5,7 +5,7 @@
 📫 Reach me at:  
 [LinkedIn](https://www.linkedin.com/in/abhilash-yada/) | 
 [Email](mailto:abhilashabhi50771@gmail.com) | 
-[Portfolio](https://protfolioyada.ccbp.tech)
+[Portfolio](https://abhilashyada.ccbp.tech)
 
 ---
 
