@@ -76,7 +76,8 @@ Azure • Microsoft Fabric • Databricks • Python • SQL • Delta Lake • 
 
 - 🏅 **Microsoft Certified: Azure Data Fundamentals (DP-900)**  
   🔗 https://learn.microsoft.com/en-us/users/yadaabhilash-5022/credentials/256a0aef8f9c9a38  
-
+- 🏅  **SnowPro Core Certification**
+  🔗 https://achieve.snowflake.com/0a64a628-5364-430f-8e97-fd8c2206946a#acc.QZDqH8jd
 ---
 
 ## 📊 GitHub Stats  
